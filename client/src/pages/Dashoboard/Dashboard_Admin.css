@@ -1,0 +1,184 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #E3E3E3;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-container {
+  padding: 0;
+  margin: 0;
+}
+
+.btn {
+  padding: 10px 23px 7px 26px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  color: black;
+  text-align: center;
+}
+
+
+.search-input {
+  margin: 0 20px;
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #313131;
+  font-size: 16px;
+}
+
+.add-btn {
+  background-color: #313131;
+    padding: 10px 23px 7px 26px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  color: white;
+  text-align: center;
+}
+.add-btn:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid #313131;
+}
+
+.category-filter {
+  margin-top: 15px;
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #313131;
+}
+
+.category-section {
+  margin-bottom: 40px;
+}
+
+.category-title {
+  font-size: 24px;
+  margin: 35px 60px 11px 60px;
+  color: #333;
+  border-bottom: 2px solid #313131;
+  padding-bottom: 8px;
+}
+
+.products-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 35px 60px 11px 60px;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.product-card {
+  max-width: 275px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
+
+.product-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-bottom: 1px solid #ddd;
+  transition: transform 0.3s ease;
+}
+.product-card:hover .product-image {
+  transform: scale(1.05);
+}
+
+.product-details {
+  padding: 1rem;
+  margin-bottom: -24px;
+}
+
+.product-date {
+  font-size: 0.85rem;
+  color: #8d6e63;
+  margin-top: 0.5rem;
+}
+
+.card-actions {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+.card-actions .btn {
+  flex: 1;
+  margin: 0 5px;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.85rem;
+}
+
+.edit-btn {
+  background-color: #57564F;
+  color: white;
+}
+.edit-btn:hover {
+  background-color: #DDDAD0;
+  color: black;
+}
+.delete-btn {
+  background-color: #dc3545;
+}
+.delete-btn:hover {
+  background-color: #c82333;
+}
+label {
+  display:flex;
+  justify-content:center;
+  gap:5px;
+  margin-top:10px;
+}
+.add-to-cart-btn {
+  display: block;
+  background-color: #313131;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  margin: 10px 45px 13px;
+  width: 65%;
+}
+.add-to-cart-btn:hover {
+  background-color: white;
+  transform: scale(1.05);
+  color: #313131;
+  border: 1px solid #313131;
+}
+
+.my-confirm-btn:hover {
+  background-color: white ;
+  transform: scale(1.05);
+  color: #313131;
+  border: 1px solid #313131;
+}
+
+.my-cancel-btn{
+  color: #313131;
+  border: 1px solid #313131;
+}
+.divstyle{
+  /* display: flex; */
+ margin-left: 40px;
+ align-items: center;
+}
+.marginstyle{
+  margin-right: 14px;
+}

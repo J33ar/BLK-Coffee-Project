@@ -1,0 +1,490 @@
+[
+    {
+        "name": "BLK Fusion Salad",
+        "description": "BLK Fusion Salad",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/BLKFusionSalad.png",
+        "in_stock": true,
+        "category" : "Grab & Go"
+    },
+    {
+        "name": "Banana Oats",
+        "description": "Banana Oats",
+        "price": 4.29,
+        "image_url": "http://localhost:5000/images/BananaOats.png",
+        "in_stock": true,
+        "category" : "Grab & Go"
+    },
+    {
+        "name": "Chia Dark Chocolate",
+        "description": "Chia Dark Chocolate",
+        "price": 4.30,
+        "image_url": "http://localhost:5000/images/ChiaDarkChocolate.png",
+        "in_stock": true,
+        "category" : "Grab & Go"
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "description": "Chicken Caesar Salad",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/ChickenCaesarSalad.png",
+        "in_stock": true,
+        "category" : "Grab & Go"
+    },
+    {
+        "name": "Mexican Chicken Wrap",
+        "description": "Mexican Chicken Wrap",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/MexicanChickenWrap.png",
+        "in_stock": true,
+        "category" : "Grab & Go"
+    },
+    {
+        "name": "Breakfast Sandwich",
+        "description": "Breakfast Sandwich",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/BreakfastSandwich.png",
+        "in_stock": true,
+        "category" : "Grab & Go"
+    },
+    {
+        "name": "Deli Twirl",
+        "description": "Deli Twirl",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/DeliTwirl.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Halloumi Focaccia",
+        "description": "Halloumi Focaccia",
+        "price": 4.29,
+        "image_url": "http://localhost:5000/images/HalloumiFocaccia.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Steak Sando",
+        "description": "Steak Sando",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/SteakSando.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Tuna Salad",
+        "description": "Tuna Salad",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/TunaSalad.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Turkey Club Toast Brown",
+        "description": "Turkey Club Toast Brown",
+        "price": 2.99,
+        "image_url": "http://localhost:5000/images/TurkeyClubToastBrown.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Turkey Gouda Baguette",
+        "description": "Turkey Gouda Baguette",
+        "price": 4.49,
+        "image_url": "http://localhost:5000/images/TurkeyGoudaBaguette.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Homemade Snickers Oats",
+        "description": "Homemade Snickers Oats",
+        "price": 4.29,
+        "image_url": "http://localhost:5000/images/HomemadeSnickersOats.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Roast Beef Club Toast",
+        "description": "Roast Beef Club Toast",
+        "price": 3.25,
+        "image_url": "http://localhost:5000/images/RoastBeefClubToast.png",
+        "in_stock": true,
+        "category": "Grab & Go"
+    },
+    {
+        "name": "Coffee Bean 250g",
+        "description": "Coffee Bean 250g",
+        "price": 8.00,
+        "image_url": "http://localhost:5000/images/CoffeeBean250g.png",
+        "in_stock": true,
+        "category": "Merchandise"
+    },
+    {
+        "name": "Insulated Temperature Thermo",
+        "description": "Insulated Temperature Thermo",
+        "price": 15.00,
+        "image_url": "http://localhost:5000/images/InsulatedTemperatureThermo.png",
+        "in_stock": true,
+        "category": "Merchandise"
+    },
+    {
+        "name": "Coasters - ريِّح كاستك",
+        "description": "Coasters - ريِّح كاستك",
+        "price": 4.00,
+        "image_url": "http://localhost:5000/images/Coasters.png",
+        "in_stock": true,
+        "category": "Merchandise"
+    },
+    {
+        "name": "Playing Cards Set",
+        "description": "Playing Cards Set",
+        "price": 7.00,
+        "image_url": "http://localhost:5000/images/PlayingCardsSet.png",
+        "in_stock": true,
+        "category": "Merchandise"
+    },
+    {
+        "name": "Printed T-shirts - Short Sleeve - Matcha Design",
+        "description": "Printed T-shirts - Short Sleeve - Matcha Design",
+        "price": 12.00,
+        "image_url": "http://localhost:5000/images/T-shirts.png",
+        "in_stock": true,
+        "category": "Merchandise"
+    },
+    {
+        "name": "Biscotti (بسكوتي)",
+        "description": "Biscotti (بسكوتي)",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/Biscotti.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Brownie Mix Cup",
+        "description": "Brownie Mix Cup",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/BrownieMixCup.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Chocolate Cookie",
+        "description": "Chocolate Cookie",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/ChocolateCookie.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Classical Cookie",
+        "description": "Classical Cookie",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/ClassicalCookie.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Crumble Cake",
+        "description": "Crumble Cake",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/CrumbleCake.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Date Cake كيكة التمر",
+        "description": "Date Cake كيكة التمر",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/DateCake.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Fatayer Cheese and Za'atar",
+        "description": "Fatayer Cheese and Za'atar",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/FatayerCheeseandZa'atar.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Fatayer Tomatoes & Olives",
+        "description": "Fatayer Tomatoes & Olives",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/FatayerTomatoes&Olives.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Hallum & Summaq Ka'ek",
+        "description": "Hallum & Summaq Ka'ek",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/Hallum&SummaqKa'ek.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Kashkawan Siniora Hamam Sandwich",
+        "description": "Kashkawan Siniora Hamam Sandwich حمام كشكوان وسنيورة",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/Kashkawan.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Latte Cookie",
+        "description": "Latte Cookie",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/LatteCookie.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Siniora & Spread Cheese Hamam Sandwich ",
+        "description": "Siniora & Spread Cheese Hamam Sandwich حمام جبنة وسنيورة",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/Siniora&SpreadCheeseHamamSandwich.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Super Hallum & Summaq Ka'ek",
+        "description": "Super Hallum & Summaq Ka'ek كعيك حلوم وسماق سوبر",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/Siniora&SuperHallum&SummaqKa'ek.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Water Bottle",
+        "description": "Water Bottle",
+        "price": 0.50,
+        "image_url": "http://localhost:5000/images/WaterBottle.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Zaatar Cheese Hamam Sandwich",
+        "description": "Zaatar Cheese Hamam Sandwich حمام زعتر وجبنة",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/ZaatarCheeseHamamSandwich.png",
+        "in_stock": true,
+        "category": "Food"
+    },
+    {
+        "name": "Khalta Hazelnut",
+        "description": "Khalta Hazelnut 340g",
+        "price": 7.00,
+        "image_url": "http://localhost:5000/images/KhaltaHazelnut340g.png",
+        "in_stock": true,
+        "category": "Promos"
+    },
+    {
+        "name": "Iced Hot Chocolate",
+        "description": "Iced Hot Chocolate",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/IcedHotChocolate.png",
+        "in_stock": true,
+        "category": "Promos"
+    },
+    {
+        "name": "Hot Chocolate",
+        "description": "Hot Chocolate",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/HotChocolate.png",
+        "in_stock": true,
+        "category": "Promos"
+    },
+    {
+        "name": "Iced Matcha Latte",
+        "description": "Iced Matcha Latte",
+        "price": 4.00,
+        "image_url": "http://localhost:5000/images/IcedMatchaLatte.png",
+        "in_stock": true,
+        "category": "Matcha"
+    },
+    {
+        "name": "Hot Matcha Latte",
+        "description": "Hot Matcha Latte",
+        "price": 4.00,
+        "image_url": "http://localhost:5000/images/HotMatchaLatte.png",
+        "in_stock": true,
+        "category": "Matcha"
+    },
+    {
+        "name": "Iced Latte",
+        "description": "Iced Latte",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/IcedLatte.png",
+        "in_stock": true,
+        "category": "Milk Coffee"
+    },
+    {
+        "name": "Hot Latte",
+        "description": "Hot Latte",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/HotLatte.png",
+        "in_stock": true,
+        "category": "Milk Coffee"
+    },
+    {
+        "name": "Cappuccino",
+        "description": "Cappuccino",
+        "price": 2.00,
+        "image_url": "http://localhost:5000/images/Cappuccino.png",
+        "in_stock": true,
+        "category": "Milk Coffee"
+    },
+    {
+        "name": "Iced Americano",
+        "description": "Iced Americano",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/IcedAmericano.png",
+        "in_stock": true,
+        "category": "Black Coffee"
+    },
+    {
+        "name": "Hot Americano",
+        "description": "Hot Americano",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/HotAmericano.png",
+        "in_stock": true,
+        "category": "Black Coffee"
+    },
+    {
+        "name": "American",
+        "description": "American",
+        "price": 1.25,
+        "image_url": "http://localhost:5000/images/American.png",
+        "in_stock": true,
+        "category": "Black Coffee"
+    },
+    {
+        "name": "Hot White Mocha",
+        "description": "Hot White Mocha",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/HotWhiteMocha.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Khareeef ICED",
+        "description": "Khareeef خريييف ICED",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/KhareeefICED.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Khareeef Hot",
+        "description": "Khareeef خريييف Hot",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/KhareeefHot.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced White Mocha",
+        "description": "Iced White Mocha",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/IcedWhiteMocha.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced Spanish Latte",
+        "description": "Iced Spanish Latte",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/IcedSpanishLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced Rose latte",
+        "description": "Iced Rose latte",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/IcedRoselatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced Pistachio Latte",
+        "description": "Iced Pistachio Latte",
+        "price": 3.00,
+        "image_url": "http://localhost:5000/images/IcedPistachioLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced Lotus Latte",
+        "description": "Iced Lotus Latte",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/IcedLotusLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced Hazelnut Latte",
+        "description": "Iced Hazelnut Latte",
+        "price": 3.00,
+        "image_url": "http://localhost:5000/images/IcedHazelnutLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Iced Caramel Latte",
+        "description": "Iced Caramel Latte",
+        "price": 3.00,
+        "image_url": "http://localhost:5000/images/IcedCaramelLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Hot Spanish latte",
+        "description": "Hot Spanish latte",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/HotSpanishlatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Hot Rose Latte",
+        "description": "Hot Rose Latte",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/HotRoseLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "HotPistachioLatte",
+        "description": "Hot Pistachio Latte",
+        "price": 3.00,
+        "image_url": "http://localhost:5000/images/HotPistachioLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Hot Lotus Latte",
+        "description": "Hot Lotus Latte",
+        "price": 2.50,
+        "image_url": "http://localhost:5000/images/HotLotusLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Hot Hazelnut Latte",
+        "description": "Hot Hazelnut Latte",
+        "price": 3.00,
+        "image_url": "http://localhost:5000/images/HotHazelnutLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    },
+{
+        "name": "Hot Caramel Latte",
+        "description": "Hot Caramel Latte",
+        "price": 3.00,
+        "image_url": "http://localhost:5000/images/HotCaramelLatte.png",
+        "in_stock": true,
+        "category": "Sweet Coffee"
+    }
+]

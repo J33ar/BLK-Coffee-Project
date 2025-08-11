@@ -1,0 +1,38 @@
+.profile-fancy-containerr {
+  max-width: 400px;
+  margin: 10rem auto;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  padding: 2rem 1.5rem 3rem;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2c3e50;
+  position: relative;
+}
+
+.btnn{
+    text-decoration: none;
+    color: #313131;
+}
+
+.save-btnn {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  background: #313131;
+  color: white;
+  font-weight: 700;
+  padding: 0.7rem;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.save-btnn:hover {
+  background: white;
+  color: #313131;
+  border: 3px solid #313131;
+}
