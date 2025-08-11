@@ -145,10 +145,10 @@ CREATE TABLE cart (
 
 ### 🔐 Authentication
 **Login Page**
-![Login](./screenshots/login.png)
+![Login](./screenshots/Login.png)
 
 **Register Page**
-![Register](./screenshots/register.png)
+![Register](./screenshots/Register.png)
 
 ---
 
